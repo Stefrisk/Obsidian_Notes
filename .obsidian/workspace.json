@@ -53,13 +53,12 @@
             "id": "94edec19f564d341",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "image",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "git hub actions/assets/Pasted image 20251031051433.png"
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251031051433"
             }
           }
         ],
@@ -224,19 +223,21 @@
   },
   "active": "94edec19f564d341",
   "lastOpenFiles": [
+    "git hub actions/GitHub Actions.md",
+    "Welcome.md",
+    "git hub actions/assets/Pasted image 20251031051433.png",
+    "git hub actions/assets/2025-10-29.md",
+    "git hub actions/GitHubActions English.md",
+    "git hub actions/assets",
     "BarBud/Bar bud.md",
     "Untitled.base",
-    "git hub actions/GitHub Actions.md",
     "BarBud",
-    "Welcome.md",
-    "git hub actions/GitHubActions English.md",
     "DevOps Notes.md",
     "Click.md",
     "git hub actions/exersices.md",
-    "git hub actions/Pasted image 20251030115014.png",
-    "git hub actions/Pasted image 20251030115534.png",
-    "git hub actions/Pasted image 20251030120132.png",
-    "git hub actions/2025-10-29.md",
+    "git hub actions/assets/Pasted image 20251030115014.png",
+    "git hub actions/assets/Pasted image 20251030115534.png",
+    "git hub actions/assets/Pasted image 20251030120132.png",
     "git hub actions",
     "git hub actions screen shots/Pasted image 20251030120132.png",
     "git hub actions screen shots/Pasted image 20251030115534.png",

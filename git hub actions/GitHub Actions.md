@@ -127,3 +127,4 @@ This approach makes your steps modular and maintainable.
 - Avoid relying on YAML anchors for step reuse in GitHub Actions.
 ![[Pasted image 20251030120132.png]]
 	![[Pasted image 20251030115014.png]]
+![[Pasted image 20251031051433.png]]

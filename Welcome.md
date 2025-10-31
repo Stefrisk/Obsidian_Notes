@@ -1,1 +1,0 @@
-my notes just add a folder for a new journal 
