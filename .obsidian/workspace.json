@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc17710bc65bf48b",
+        "id": "146bf2d99b84a04e",
         "type": "tabs",
         "children": [
           {
-            "id": "852790046ad9f4e9",
+            "id": "6b9da0c3fa628147",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,33 +20,8 @@
               "icon": "lucide-file",
               "title": "EnhetsTesting Notes"
             }
-          },
-          {
-            "id": "6ca5917ca39b326a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "EnhetsTesting/Pasted image 20251103140258.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251103140258"
-            }
-          },
-          {
-            "id": "66032fff34b5fbf7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "EnhetsTesting/Pasted image 20251103140102.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251103140102"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 254.5
   },
   "right": {
     "id": "f7c22207500573dd",
@@ -167,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps Notes.md",
+                "file": "EnhetsTesting/EnhetsTesting Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DevOps Notes"
+              "title": "Outline of EnhetsTesting Notes"
             }
           },
           {
@@ -184,6 +159,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "f6cec452c6a1ef7c",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
@@ -202,22 +187,45 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2b1a54a0dbe56629",
+  "active": "13660c251afc9c48",
   "lastOpenFiles": [
-    "EnhetsTesting/Pasted image 20251103140258.png",
+    "EnhetsTesting/Assests 1.md",
     "EnhetsTesting/EnhetsTesting Notes.md",
-    "EnhetsTesting/Pasted image 20251103140102.png",
-    "EnhetsTesting/Pasted image 20251103133543.png",
-    "EnhetsTesting/Pasted image 20251103133514.png",
-    "EnhetsTesting/Pasted image 20251103133500.png",
+    "EnhetsTesting/Assests.md",
+    "EnhetsTesting/Assests/Pasted image 20251103133500 1.png",
+    "EnhetsTesting/Assests/Pasted image 20251103133500.png",
+    "EnhetsTesting/Assests/Pasted image 20251103133514.png",
+    "EnhetsTesting/Assests/Pasted image 20251103140102.png",
+    "EnhetsTesting/Assests/Pasted image 20251103133543.png",
+    "EnhetsTesting/Assests/Enhetstester.pdf",
+    "copilot/copilot-conversations/translate_to_english_this_pdf_and_put_some_emojis_please@20251103_141554.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "EnhetsTesting/Assests/Pasted image 20251103140258.png",
+    "git hub actions/assets/2025-10-29.md",
+    "EnhetsTesting/Assests",
     "git hub actions/GitHub Actions.md",
     "EnhetsTesting",
     "git hub actions/assets/Pasted image 20251031051433.png",
     "Welcome.md",
-    "git hub actions/assets/2025-10-29.md",
     "git hub actions/GitHubActions English.md",
     "git hub actions/assets",
     "BarBud/Bar bud.md",
@@ -230,10 +238,6 @@
     "git hub actions/assets/Pasted image 20251030115534.png",
     "git hub actions/assets/Pasted image 20251030120132.png",
     "git hub actions",
-    "git hub actions screen shots/Pasted image 20251030120132.png",
-    "git hub actions screen shots/GitHub Actions.md",
-    "git hub actions screen shots/2025-10-29.md",
-    "git hub actions screen shots",
-    "Welcome to my notes"
+    "git hub actions screen shots/GitHub Actions.md"
   ]
 }
