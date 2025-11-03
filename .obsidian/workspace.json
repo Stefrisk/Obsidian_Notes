@@ -11,14 +11,17 @@
             "id": "6b9da0c3fa628147",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "EnhetsTesting/EnhetsTesting Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "EnhetsTesting Notes"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "f7c22207500573dd",
@@ -142,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EnhetsTesting/EnhetsTesting Notes.md",
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EnhetsTesting Notes"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -191,10 +195,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "13660c251afc9c48",
+  "active": "6b9da0c3fa628147",
   "lastOpenFiles": [
-    "EnhetsTesting/Assests 1.md",
+    "Untitled.canvas",
     "EnhetsTesting/EnhetsTesting Notes.md",
+    "EnhetsTesting/Assests 1.md",
     "EnhetsTesting/Assests.md",
     "EnhetsTesting/Assests/Pasted image 20251103133500 1.png",
     "EnhetsTesting/Assests/Pasted image 20251103133500.png",
@@ -237,7 +242,6 @@
     "git hub actions/assets/Pasted image 20251030115014.png",
     "git hub actions/assets/Pasted image 20251030115534.png",
     "git hub actions/assets/Pasted image 20251030120132.png",
-    "git hub actions",
-    "git hub actions screen shots/GitHub Actions.md"
+    "git hub actions"
   ]
 }
