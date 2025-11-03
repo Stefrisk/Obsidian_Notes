@@ -20,49 +20,8 @@
               "icon": "lucide-file",
               "title": "GitHub Actions"
             }
-          },
-          {
-            "id": "1335156115e66902",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git hub actions/GitHub Actions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GitHub Actions"
-            }
-          },
-          {
-            "id": "afca10fe55690c44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git hub actions/GitHub Actions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GitHub Actions"
-            }
-          },
-          {
-            "id": "94edec19f564d341",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "git hub actions/assets/Pasted image 20251031051433.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251031051433"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f7c22207500573dd",
@@ -221,11 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94edec19f564d341",
+  "active": "852790046ad9f4e9",
   "lastOpenFiles": [
+    "git hub actions/assets/Pasted image 20251031051433.png",
     "git hub actions/GitHub Actions.md",
     "Welcome.md",
-    "git hub actions/assets/Pasted image 20251031051433.png",
     "git hub actions/assets/2025-10-29.md",
     "git hub actions/GitHubActions English.md",
     "git hub actions/assets",
