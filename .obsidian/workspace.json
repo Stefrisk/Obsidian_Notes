@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Handbook for Git.md",
+                "file": "BarBud/Bar bud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Handbook for Git"
+              "title": "Bar bud"
             }
           }
         ],
@@ -207,8 +207,11 @@
   },
   "active": "2b1a54a0dbe56629",
   "lastOpenFiles": [
-    "Lia 2/Personal Letter example.md",
+    "CI CD Notes/CD Notes.md",
+    "Pasted image 20251120105013.png",
     "Project Handbook for Git.md",
+    "CI CD Notes",
+    "Lia 2/Personal Letter example.md",
     "Pasted image 20251119102659.png",
     "Lia 2",
     "copilot/copilot-conversations/translate_to_english_this_pdf_and_put_some_emojis_please@20251103_141554.md",
@@ -249,10 +252,6 @@
     "git hub actions/assets",
     "BarBud/Bar bud.md",
     "Untitled.base",
-    "BarBud",
-    "DevOps Notes.md",
-    "Click.md",
-    "git hub actions/assets/Pasted image 20251030115014.png",
-    "git hub actions/assets/Pasted image 20251030115534.png"
+    "git hub actions/assets/Pasted image 20251030115014.png"
   ]
 }
